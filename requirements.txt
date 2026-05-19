@@ -4,3 +4,4 @@ mysql-connector
 numpy
 matplotlib
 scikit-learn
+catboost
