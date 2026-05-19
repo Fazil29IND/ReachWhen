@@ -29,12 +29,17 @@ ReachWhen is a Machine Learning web application built with Flask that predicts t
 ```bash
 git clone [https://github.com/your-username/ReachWhen.git](https://github.com/your-username/ReachWhen.git)
 cd ReachWhen
+```
+
 ### 2. Install dependencies
 Ensure you have Python installed, then run the following command to install the required libraries:
 ```bash
 pip install -r requirements.txt
+```
+
 ### 3.Setup the MySQL Database
 Open your MySQL client or command line.
 Run the provided SQL script to create the database and table:
 ```bash
 mysql -u root -p < Database.sql
+```
