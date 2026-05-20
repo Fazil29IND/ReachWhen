@@ -10,7 +10,7 @@ ReachWhen is a Machine Learning web application built with Flask that predicts t
 
 ## Tech Stack
 * **Backend:** Python, Flask
-* **Machine Learning:** Scikit-Learn, XGBoost, Pandas, Numpy, Joblib, Matplotlib
+* **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Pandas, Numpy, Joblib, Matplotlib
 * **Database:** MySQL (`mysql-connector-python`)
 * **Data Visualization:** Matplotlib
 * **Frontend:** HTML & CSS 
