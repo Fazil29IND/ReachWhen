@@ -1,5 +1,6 @@
-Flask
+flask
 mysql-connector-python
 numpy
 matplotlib
 scikit-learn
+joblib
